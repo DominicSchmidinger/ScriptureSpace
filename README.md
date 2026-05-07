@@ -31,11 +31,9 @@ The goal of Scripture Space is to help believers stay connected with God and wit
 
 ## Technologies
 
-- HTML
-- CSS
-- JavaScript
-- JSON/API integration
+- Java
+- Vaadin
 
 ## Project Type
 
-Varding Project / Bible Study Community Platform
+Vaadin Project / Bible Study Community Platform
