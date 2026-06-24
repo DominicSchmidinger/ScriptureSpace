@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "Z:/Schule/Fächer/Git Repos/ScriptureSpace/Code/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "Z:/Schule/Fächer/Git Repos/ScriptureSpace/Code/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "Z:/Schule/Fächer/Git Repos/ScriptureSpace/Code/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "Z:\\Schule\\Fächer\\Git Repos\\ScriptureSpace\\Code\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "Z:\\Schule\\Fächer\\Git Repos\\ScriptureSpace\\Code\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "Z:/Schule/Fächer/Git Repos/ScriptureSpace/Code/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "Z:/Schule/Fächer/Git Repos/ScriptureSpace/Code/target/dev-bundle/config",
+  "jarResourcesFolder": "Z:/Schule/Fächer/Git Repos/ScriptureSpace/Code/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "Z:\\Schule\\Fächer\\Git Repos\\ScriptureSpace\\Code\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
